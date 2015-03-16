@@ -1,2 +1,2 @@
-# duang-ui
-用于h5 ui组件开发
+# lui
+a public UI Moudle for H5
